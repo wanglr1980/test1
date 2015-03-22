@@ -5,4 +5,5 @@ public class gitTest {
 	public String ab;
 	public String ac;
 	public String ad;
+	public String af;
 }
